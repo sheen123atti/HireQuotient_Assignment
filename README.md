@@ -74,3 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ### `npm install @mui/icons-material @mui/material`
+
+![Screenshot 2024-08-04 173038](https://github.com/user-attachments/assets/19b1cb7e-f143-4744-baa8-6a3ef887bb3e)
+
+
